@@ -6,5 +6,5 @@
 
 ## Tools used
 
-- [jscompress](https://jscompress.com/)
+- [closure compiler](https://closure-compiler.appspot.com)
 - [regPack](http://siorki.github.io/regPack.html)
