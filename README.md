@@ -2,3 +2,9 @@
 
 - [2018 - Space Fighter](./2018)
 - [2019 - Guitar Synth](./2019)
+
+
+## Tools used
+
+- [JS-Compress](https://jscompress.com/)
+- [regPack](http://siorki.github.io/regPack.html)
